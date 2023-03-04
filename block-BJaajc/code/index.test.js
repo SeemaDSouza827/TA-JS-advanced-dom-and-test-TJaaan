@@ -11,6 +11,7 @@ test('if full Name is correct', () => {
 test('if full Name is correct', () => {
   expect(index.fullName('', '')).toBe(' ');
 });
+
 // test('if full Name is correct', () => {
 //   expect(index.fullName('Anand', 'Seshadri')).toBe('Anand');
 // });
