@@ -4,7 +4,6 @@ const {
   getCircumfrence,
   getArea,
 } = require('./index');
-module.export = { getFullName, isPalindrome, getCircumfrence, getArea };
 
 // getFullName tests
 
